@@ -6,10 +6,14 @@ import numpy as np
 import pydotplus
 import graphviz
 
+# TODO: main method to run this program (right now have to run functions individually)
+
+
+# TODO: respitory illness name list
 class_names = [ 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                     'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot' ]
 
-
+# TODO: link with correct database
 def get_dataset(training=True):
     fashion_mnist = keras.datasets.fashion_mnist
     (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
