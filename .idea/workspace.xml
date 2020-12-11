@@ -2,75 +2,236 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="653ed9e8-fdca-43e6-9d85-2bf6e206441c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.10.20021584-p6-52%14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.10.20021584-p6-52%15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.10.20021584-p6-52%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.10.20021584-p6-52%7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.13.20022673-p13-77%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.17.20024018-p17-61%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.19.20025023-p20-93%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.22.20024927-p19-68%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.22.20024927-p19-68%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.22.20024927-p19-68%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.22.20024927-p19-68%5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.22.20024927-p20-70%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.24.20027052-p8-73%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.24.20027052-p8-73%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.25.20027763-p15-53%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.25.20027763-p15-53%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.26.20026989-p34-114_1%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.02.28.20029025-p23-183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.01.20029769-p21-73_1%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.03.20030775-p10-88%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.03.20030775-p10-88%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20026005-p12-1946%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20026005-p12-1946%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20026005-p12-1946%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20026005-p12-1946%4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20030395-p27-108%6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20031047-p12-81%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20031047-p12-81%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20031047-p13-84%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.04.20031047-p13-84%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.07.20031393-p7-50%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.08.20031658-p15-104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.08.20031658-p15-105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.09.20033118-p20-93%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.09.20033118-p20-93%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.09.20033118-p20-93%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.10.20032136-p34-118_2%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.10.20032136-p34-118_2%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.12.20027185-p8-217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.12.20027185-p8-221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.13.20035212-p23-158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.13.20035212-p23-159.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.13.20035212-p23-162.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.19.20038539-p10-57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.19.20038539-p10-58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.19.20038539-p10-59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.19.20038539-p10-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.19.20038539-p10-62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.22.20040782-p25-1541.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.26.20041426-p11-121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.26.20041426-p11-124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.26.20041426-p11-125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.26.20041426-p11-131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.26.20041426-p11-132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.30.20047985-p9-56%0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.30.20047985-p9-56%1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.30.20047985-p9-56%2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/2020_optimized.03.30.20047985-p9-56%3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/bmj_optimized.m606.full-p4-22%6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/bmj_optimized.m606.full-p4-22%7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/comparison-of-different-samples-for-2019-novel-cor_2020_international-journa-p2-21%5_optimized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/comparison-of-different-samples-for-2019-novel-cor_2020_international-journa-p2-21%8_optimized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/piis0140673620301549_1_optimized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/piis0140673620301549_2_optimized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/piis0140673620303603%4_optimized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CT_COVID/piis0140673620303603%7_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000108 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000108 (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000108 (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000109 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000109 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000109 (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000110 (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000110 (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000111 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000112 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000112 (9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000113 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000114 (10).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000114 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000114 (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000115 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000115 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000115 (9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000116 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000116 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000116 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000116 (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000116 (9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000117 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000117 (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000118 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000118 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000119 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/ADENOCARCINOMA/000119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.13.20022673-p13-77%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.17.20024018-p17-61%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.19.20025023-p20-93%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p20-70%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.24.20027052-p8-73%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.24.20027052-p8-73%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.25.20027763-p15-53%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.25.20027763-p15-53%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.26.20026989-p34-114_1%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.28.20029025-p23-183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.01.20029769-p21-73_1%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.01.20029769-p21-73_2%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.03.20030775-p10-88%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.03.20030775-p10-88%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20026005-p12-1946%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20026005-p12-1946%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20026005-p12-1946%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20026005-p12-1946%4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20030395-p27-108%6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20031047-p12-81%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20031047-p12-81%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20031047-p13-84%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.04.20031047-p13-84%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.07.20031393-p7-50%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.08.20031658-p15-104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.08.20031658-p15-105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.09.20033118-p20-93%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.09.20033118-p20-93%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.09.20033118-p20-93%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.10.20032136-p34-118_2%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.10.20032136-p34-118_2%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.12.20027185-p8-217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.12.20027185-p8-221.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.13.20035212-p23-158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.13.20035212-p23-159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.13.20035212-p23-162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.19.20038539-p10-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.19.20038539-p10-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.19.20038539-p10-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.19.20038539-p10-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.19.20038539-p10-62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.22.20040782-p25-1541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.26.20041426-p11-121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.26.20041426-p11-124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.26.20041426-p11-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.26.20041426-p11-131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.26.20041426-p11-132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.30.20047985-p9-56%0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.30.20047985-p9-56%1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.30.20047985-p9-56%2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.03.30.20047985-p9-56%3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/bmj_optimized.m606.full-p4-22%6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/bmj_optimized.m606.full-p4-22%7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/comparison-of-different-samples-for-2019-novel-cor_2020_international-journa-p2-21%5_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/comparison-of-different-samples-for-2019-novel-cor_2020_international-journa-p2-21%8_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/piis0140673620301549_1_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/piis0140673620301549_2_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/piis0140673620303603%4_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/piis0140673620303603%7_optimized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/1%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/1%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/10%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/10%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/11%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/11%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/14%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/14%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/14%3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/15%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/17%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/19%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/22%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/25%3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/30%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/30%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/32%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/37%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/37%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/37%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/38%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/39%3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/49%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/5%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/52%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/54%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/56%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/6%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/6%1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/63%7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/69%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/76%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/84%2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/CT_NOCOVID/85%0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000108 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000110 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000111 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000113 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000115 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000118 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/LARGE_CELL_CARCINOMA/000131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lung_imgs/train/PNEUMONIA/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lungs_cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CovidLungAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CovidLungAnalysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras_cnn.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +252,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CT_COVID" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lung_imgs/train" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lung_imgs/train" />
       <recent name="$PROJECT_DIR$/CT_COVID" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lung_imgs" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -125,32 +292,52 @@
       <option name="project" value="LOCAL" />
       <updated>1606695789254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add optimized images for CT_COVID">
+      <created>1606699294492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606699294492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added TODO comments" />
     <MESSAGE value="optimize images for CT_COVID" />
-    <option name="LAST_COMMIT_MESSAGE" value="optimize images for CT_COVID" />
+    <MESSAGE value="add optimized images for CT_COVID" />
+    <option name="LAST_COMMIT_MESSAGE" value="add optimized images for CT_COVID" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="246" y="2" key="CommitChangelistDialog2" timestamp="1606695782689">
+    <state x="221" y="160" key="#xdebugger.XInspectDialog" timestamp="1607665261226">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="246" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1606695782689" />
-    <state x="149" y="39" key="SettingsEditor" timestamp="1603999150645">
+    <state x="221" y="160" key="#xdebugger.XInspectDialog/0.0.1280.800@0.0.1280.800" timestamp="1607665261226" />
+    <state x="246" y="2" key="CommitChangelistDialog2" timestamp="1606699294071">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1603999150645" />
+    <state x="246" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1606699294071" />
+    <state x="427" y="162" key="FileChooserDialogImpl" timestamp="1606705058912">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="427" y="162" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1606705058912" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1606709880755">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606709880755" />
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1605559366782">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1604363598841" />
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1605559366782" />
-    <state x="289" y="134" width="700" height="530" key="recent.locations.popup" timestamp="1604001128456">
+    <state x="306" y="35" width="667" height="729" key="find.popup" timestamp="1606710187341">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="289" y="134" width="700" height="530" key="recent.locations.popup/0.0.1280.800@0.0.1280.800" timestamp="1604001128456" />
+    <state x="306" y="35" width="667" height="729" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1606710187341" />
+    <state x="289" y="134" width="700" height="530" key="recent.locations.popup" timestamp="1606948262715">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="289" y="134" width="700" height="530" key="recent.locations.popup/0.0.1280.800@0.0.1280.800" timestamp="1606948262715" />
   </component>
 </project>
