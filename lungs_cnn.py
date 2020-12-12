@@ -29,20 +29,22 @@ def get_label(img_path):
 
 
 def get_ds(data_path, training=True):
-    img_paths = list()
-    # Recursively find all the image files from the path data_path
-    for img_path in glob2.glob(data_path + "/**/*"):
-        img_paths.append(img_path)
-    images = np.zeros((len(img_paths), 256, 256))
-    labels = np.zeros(len(img_paths))
+    # img_paths = list()
+    # # Recursively find all the image files from the path data_path
+    # for img_path in glob2.glob(data_path + "/**/*"):
+    #     img_paths.append(img_path)
+    # images = np.zeros((len(img_paths), 256, 256))
+    # labels = np.zeros(len(img_paths))
+    #
+    # # Read and resize the images
+    # # Get the encoded labels
+    # for i, img_path in enumerate(img_paths):
+    #     images[i] = get_pic(img_path)
+    #     labels[i] = label_to_index[get_label(img_path)]
 
-    # Read and resize the images
-    # Get the encoded labels
-    for i, img_path in enumerate(img_paths):
-        images[i] = get_pic(img_path)
-        labels[i] = label_to_index[get_label(img_path)]
-
-    image_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255, validation_split=0.2)
+    # generate and augment data from files
+    image_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255, validation_split=0.2,
+                                                                      horizontal_flip=True)
 
     train_images = image_generator.flow_from_directory(batch_size=32,
                                                         directory='Lung_imgs',
@@ -64,7 +66,7 @@ def get_ds(data_path, training=True):
         return train_images, train_images.class_indices
 
 
-def build_model():                                                                                       # model = build_model()
+def build_model():
     model = keras.Sequential([
         keras.layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(28, 28, 1)),
         keras.layers.Conv2D(32, kernel_size=3, activation='relu'),
@@ -76,14 +78,14 @@ def build_model():                                                              
     return model
 
 
-def train_model(model, train_img, train_lab, test_img, test_lab, T):                                # train_model(model, train_images, train_images.class_indices, test_images, test_images.class_indices, 1)
+def train_model(model, train_img, train_lab, test_img, test_lab, T):
     train_lab = keras.utils.to_categorical(train_lab)
     test_lab = keras.utils.to_categorical(test_lab)
 
     model.fit(train_img, train_lab, validation_data=(test_img, test_lab), epochs=T)
 
 
-def predict_label(model, images, index):                                             # predict_label(model, test_images, 0)
+def predict_label(model, images, index):
     prediction = model.predict(images)[index]
     print(prediction)
 
@@ -100,10 +102,13 @@ def predict_label(model, images, index):                                        
 
 # Load the train and validation data
 # train_images, train_labels = get_ds("/Lung_imgs/")
-# test_images, test_labels = get_ds("/Lung_imgs/")
+# test_images, test_labels = get_ds("/Lung_imgs/", False)
 #
-# # Finally train it
-# model.fit(train_X,train_y, validation_data=(val_X,val_y))
+# Build the model
+# model = build_model()
 #
-# # Predictions
+# Train model
+# train_model(model, train_images, train_images.class_indices, test_images, test_images.class_indices, 1)
+#
+# Predict results
 # model.predict(val_X)
