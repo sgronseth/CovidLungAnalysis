@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="653ed9e8-fdca-43e6-9d85-2bf6e206441c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%14.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.10.20021584-p6-52%14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%15.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.10.20021584-p6-52%15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.10.20021584-p6-52%3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.10.20021584-p6-52%7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.10.20021584-p6-52%7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.13.20022673-p13-77%1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.13.20022673-p13-77%1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.17.20024018-p17-61%1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.17.20024018-p17-61%1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.19.20025023-p20-93%2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.19.20025023-p20-93%2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.22.20024927-p19-68%1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.22.20024927-p19-68%2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lung_imgs/train/CT_COVID/2020_optimized.02.22.20024927-p19-68%3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lung_imgs/test/CT_COVID/2020_optimized.02.22.20024927-p19-68%3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lungs_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/lungs_cnn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +46,7 @@
       <recent name="$PROJECT_DIR$/CT_COVID" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lung_imgs/test/CT_COVID" />
       <recent name="$PROJECT_DIR$/Lung_imgs" />
     </key>
   </component>

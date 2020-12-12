@@ -1,11 +1,8 @@
 "Author: Sam Gronseth"
-import glob2
 
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
-# import pydotplus
-# import graphviz
 from pathlib import Path
 from PIL import Image
 import os
@@ -29,46 +26,45 @@ def get_label(img_path):
 
 
 def get_ds(data_path, training=True):
-    # img_paths = list()
-    # # Recursively find all the image files from the path data_path
-    # for img_path in glob2.glob(data_path + "/**/*"):
-    #     img_paths.append(img_path)
-    # images = np.zeros((len(img_paths), 256, 256))
-    # labels = np.zeros(len(img_paths))
-    #
-    # # Read and resize the images
-    # # Get the encoded labels
-    # for i, img_path in enumerate(img_paths):
-    #     images[i] = get_pic(img_path)
-    #     labels[i] = label_to_index[get_label(img_path)]
-
-    # generate and augment data from files
-    image_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255, validation_split=0.2,
+    train_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1. / 255,
+                                                                      rotation_range=40,
+                                                                      width_shift_range=0.2,
+                                                                      shear_range=0.2,
+                                                                      zoom_range=0.2,
                                                                       horizontal_flip=True)
 
-    train_images = image_generator.flow_from_directory(batch_size=32,
-                                                        directory='Lung_imgs',
-                                                        shuffle=True,
-                                                        target_size=(280, 280),
-                                                        subset="training",
-                                                        class_mode='categorical')
+    val_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1. / 255)
 
-    validation_images = image_generator.flow_from_directory(batch_size=32,
-                                                             directory='Lung_imgs',
-                                                             shuffle=True,
-                                                             target_size=(280, 280),
-                                                             subset="validation",
-                                                             class_mode='categorical')
+    train_images = train_generator.flow_from_directory(batch_size=32,
+                                                       directory='Lung_imgs/train',
+                                                       shuffle=True,
+                                                       target_size=(256, 256),
+                                                       subset="training",
+                                                       class_mode='categorical')
+
+    validation_images = val_generator.flow_from_directory(batch_size=32,
+                                                            directory='Lung_imgs',
+                                                            shuffle=True,
+                                                            target_size=(256, 256),
+                                                            subset="validation",
+                                                            class_mode='categorical')
+
+    test_images = val_generator.flow_from_directory(batch_size=32,
+                                                          directory='Lung_imgs/test',
+                                                          shuffle=True,
+                                                          target_size=(256, 256),
+                                                          subset="validation",
+                                                          class_mode='categorical')
 
     if not training:
-        return validation_images, validation_images.class_indices
+        return test_images, test_images.class_indices
     else:
         return train_images, train_images.class_indices
 
 
 def build_model():
     model = keras.Sequential([
-        keras.layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(28, 28, 1)),
+        keras.layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(280, 280, 3)),
         keras.layers.Conv2D(32, kernel_size=3, activation='relu'),
         keras.layers.Flatten(),
         keras.layers.Dense(10, activation='softmax')
@@ -78,11 +74,8 @@ def build_model():
     return model
 
 
-def train_model(model, train_img, train_lab, test_img, test_lab, T):
-    train_lab = keras.utils.to_categorical(train_lab)
-    test_lab = keras.utils.to_categorical(test_lab)
-
-    model.fit(train_img, train_lab, validation_data=(test_img, test_lab), epochs=T)
+def train_model(model, train_img, test_img, T):
+    model.fit(train_img, validation_data=test_img, epochs=T)
 
 
 def predict_label(model, images, index):
@@ -108,7 +101,7 @@ def predict_label(model, images, index):
 # model = build_model()
 #
 # Train model
-# train_model(model, train_images, train_images.class_indices, test_images, test_images.class_indices, 1)
+# train_model(model, train_images, test_images, 1)
 #
 # Predict results
 # model.predict(val_X)
